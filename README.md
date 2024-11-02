@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ### Currently learning:
 [![My Skills](https://skillicons.dev/icons?i=js,html,css)](https://skillicons.dev)
 
-###
+# 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShirleyFerr&layout=compact&theme=tokyonight)](https://github.com/ShirleyFerr/github-readme-stats)
 
