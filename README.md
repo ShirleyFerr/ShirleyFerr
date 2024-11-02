@@ -1,6 +1,7 @@
 ## Hi there 👋
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShirleyFerr)](https://github.com/ShirleyFerr/github-readme-stats)
 <!--
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShirleyFerr)](https://github.com/ShirleyFerr/github-readme-stats)
+
 **ShirleyFerr/ShirleyFerr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -15,6 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 currently learning
+<br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShirleyFerr&layout=compact)](https://github.com/ShirleyFerr/github-readme-stats)
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ShirleyFerra&repo=github-readme-stats" />
