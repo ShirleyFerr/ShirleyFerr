@@ -17,6 +17,6 @@ Here are some ideas to get you started:
 -->
 ### Currently learning:
 <br>
-
+<img style="display: flex; align-content: center;" src="https://normschurdell.com/cdn/shop/products/s_0007_html.png?v=1541731905">
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShirleyFerr&layout=compact&theme=tokyonight)](https://github.com/ShirleyFerr/github-readme-stats)
 
