@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there, I'm Shirley Ferreira, also know by Leyferr!
 <!--
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShirleyFerr)](https://github.com/ShirleyFerr/github-readme-stats)
 
@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### Currently learning:
+### I'm currently learning:
 [![My Skills](https://skillicons.dev/icons?i=js,html,css)](https://skillicons.dev)
 
 # 
