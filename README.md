@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 -->
 # Currently learning:
 <br>
-[![Top Langs]material-palenight(https://github-readme-stats.vercel.app/api/top-langs/?username=ShirleyFerr&layout=compact)](https://github.com/ShirleyFerr/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShirleyFerr&layout=compact&theme=material-palenight)](https://github.com/ShirleyFerr/github-readme-stats)
