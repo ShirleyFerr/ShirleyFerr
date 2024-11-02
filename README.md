@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Currently learning:
+### Currently learning:
 <br>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?ShirleyFerr&show_icons=true&theme=tokyonight)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShirleyFerr&layout=compact&theme=tokyonight)](https://github.com/ShirleyFerr/github-readme-stats)
