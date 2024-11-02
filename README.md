@@ -17,4 +17,5 @@ Here are some ideas to get you started:
 -->
 # Currently learning:
 <br>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?ShirleyFerr&show_icons=true&theme=tokyonight)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShirleyFerr&layout=compact&theme=material-palenight)](https://github.com/ShirleyFerr/github-readme-stats)
