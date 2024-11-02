@@ -18,5 +18,5 @@ Here are some ideas to get you started:
 ### Currently learning:
 <br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShirleyFerr&layout=compact)](https://github.com/ShirleyFerr/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShirleyFerr&layout=compact&theme=tokyonight)](https://github.com/ShirleyFerr/github-readme-stats)
 
