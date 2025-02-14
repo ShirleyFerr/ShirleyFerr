@@ -1,4 +1,4 @@
-## Hi there, I'm Shirley Ferreira, also know by Leyferr!
+## Hi there, I'm Shirley Ferreira 😊
 I'm student at São Paulo Tech School 💙
 <br>
 Focused on always learning and evolving! 💻 
