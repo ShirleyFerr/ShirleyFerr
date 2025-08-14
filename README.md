@@ -1,5 +1,5 @@
 ## Hi there, I'm Shirley Ferreira 😊
-I'm student at São Paulo Tech School 💙
+I'm a student at São Paulo Tech School 💙
 <br>
 Focused on always learning and evolving! 💻 
 <!--
