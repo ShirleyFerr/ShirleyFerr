@@ -22,8 +22,7 @@ Here are some ideas to get you started:
 [![My Skills](https://skillicons.dev/icons?i=js,java,html,css,angular)](https://skillicons.dev)
 
 # 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShirleyFerr&layout=compact&theme=tokyonight)](https://github.com/ShirleyFerr/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShirleyFerr&layout=compact)](https://github.com/ShirleyFerr/github-readme-stats)
 
 
 
