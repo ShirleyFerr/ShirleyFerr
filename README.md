@@ -4,7 +4,7 @@ I'm a student at São Paulo Tech School 💙
 Focused on always learning and evolving! 💻 
 
 ### I'm currently learning:
-[![My Skills](https://skillicons.dev/icons?i=js,java,css,typescript,python,angular,springboot)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,java,css,html,typescript,python,angular)](https://skillicons.dev)
 
 # 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShirleyFerr&layout=compact)](https://github.com/ShirleyFerr/github-readme-stats)
