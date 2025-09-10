@@ -7,7 +7,7 @@ Focused on always learning and evolving! 💻
 [![My Skills](https://skillicons.dev/icons?i=js,java,css,html,typescript,python,angular)](https://skillicons.dev)
 
 # 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShirleyFerr&layout=compact&theme=tokyonight)](https://github.com/ShirleyFerr/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShirleyFerr&layout=compact&theme=synthwave)](https://github.com/ShirleyFerr/github-readme-stats)
 
 
 
