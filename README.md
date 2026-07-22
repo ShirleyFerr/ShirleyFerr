@@ -1,5 +1,5 @@
 # 💫 About Me:
-👩🏻‍💻Full Stack Developer <br><br>🎓I graduated in Systems Analysis and Development from São Paulo Tech School.<br><br>🖋️Focused on always learning and evolving!<br><br>✉️ Contact: shirley_fl_dev@gmail.com
+👩🏻‍💻Full Stack Developer <br><br>🎓I graduated in Systems Analysis and Development from São Paulo Tech School.<br><br>🖋️Focused on always learning and evolving!<br><br>✉️ Contact: shirley.fl.dev@gmail.com
 
 
 # 💻 Tech Stack:
